@@ -13,4 +13,9 @@
     </td>
   </tr>
 </table>
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>经历</h1>
+      <p><b>大学期间和朋友创建公司解决外卖配送效率问题并赚取人生第一桶金</b></p>
+        <img src="简历.png.jpg" width="100%">  
