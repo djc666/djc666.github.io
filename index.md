@@ -8,7 +8,7 @@
       <p><b>地址：宁波市鄞州区前湖北路路8号浙江万里学院</b></p>
     </td>
     <td width="25%">
-      <img src="聪聪.png" width="100%">     
+      <img src="简历.png" width="100%">     
     </td>
   </tr>
 </table>
