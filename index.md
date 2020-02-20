@@ -21,6 +21,6 @@
       <img src="微信图片_20200220123016.png" width="75%"height="50%"> 
       </td>
     <td width="25%">
-      </td>
+     </td>
   </tr>
 </table>
